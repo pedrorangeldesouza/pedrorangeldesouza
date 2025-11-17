@@ -1,16 +1,37 @@
-## Hi there 👋
+# Olá! Eu sou o Pedro 👋
 
-<!--
-**pedrorangeldesouza/pedrorangeldesouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 Sobre mim
 
-Here are some ideas to get you started:
+Sou um estudante dedicado a **Dados**, com foco atual em projetos práticos e construção de portfólio. Busco minha primeira oportunidade como **Analista de Dados**, utilizando minhas habilidades técnicas para gerar insights reais e impacto no negócio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Além disso, estou em jornada intensa de aprendizado de **inglês**, com objetivo de alcançar proficiência avançada.
+
+Minha vida e minha ética profissional são guiadas por valores íntegros — sempre buscando excelência, integridade e serviço.
+
+---
+
+## 🚀 Tecnologias e Ferramentas
+
+* **Python** (Pandas, NumPy, Matplotlib)
+* **SQL** (consultas, ETL, modelagem básica)
+* **Power BI** (dashboards, DAX básico)
+* **Excel Intermediário**
+* **Power Query**
+* **ETL / Data Cleaning**
+* **Regressão Linear**
+
+---
+
+## ⚡ Sobre mim
+
+Sou movido por propósito — gosto de aprender, ensinar e criar soluções que ajudem pessoas. Acredito que disciplina e fé abrem portas.
+
+
+---
+
+## 📫 Contato
+
+* **Email:** pedrorangel0510@hotmail.com
+* **LinkedIn:** https://www.linkedin.com/in/pedro-rangel0206/
+
+Sinta-se à vontade para explorar meus repositórios! 😊
