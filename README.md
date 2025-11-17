@@ -22,6 +22,16 @@ Minha vida e minha ética profissional são guiadas por valores íntegros — se
 
 ---
 
+## 📊 Estatísticas do GitHub
+
+<div>
+<a href="https://github.com/pedrorangeldesouza">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrorangeldesouza&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrorangeldesouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+---
+
 ## ⚡ Sobre mim
 
 Sou movido por propósito — gosto de aprender, ensinar e criar soluções que ajudem pessoas. Acredito que disciplina e fé abrem portas.
