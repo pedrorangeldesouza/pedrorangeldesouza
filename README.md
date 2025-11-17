@@ -22,15 +22,6 @@ Minha vida e minha ética profissional são guiadas por valores íntegros — se
 
 ---
 
-## Contatos:
-<div>
-<a href="https://instagram.com/pedro_rangel05" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:contato@seu-usuário-aqui"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/pedro-rangel0206" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-
----
-
 ## ⚡ Sobre mim
 
 Sou movido por propósito — gosto de aprender, ensinar e criar soluções que ajudem pessoas. Acredito que disciplina e fé abrem portas.
@@ -38,9 +29,11 @@ Sou movido por propósito — gosto de aprender, ensinar e criar soluções que 
 
 ---
 
-## 📫 Contato
-
-* **Email:** pedrorangel0510@hotmail.com
-* **LinkedIn:** https://www.linkedin.com/in/pedro-rangel0206/
+## Contatos:
+<div>
+<a href="https://instagram.com/pedro_rangel05" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:rangelp567@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/pedro-rangel0206" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
 Sinta-se à vontade para explorar meus repositórios! 😊
