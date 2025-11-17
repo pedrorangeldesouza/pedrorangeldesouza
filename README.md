@@ -38,4 +38,4 @@ Sou movido por propósito — gosto de aprender, ensinar e criar soluções que 
 
 ## 📦 Explore meus repositórios!
 
-# 💬 Fique à vontade para ver meus projetos, acompanhar minha evolução e trocar ideias.
+ 💬 Fique à vontade para ver meus projetos, acompanhar minha evolução e trocar ideias.
