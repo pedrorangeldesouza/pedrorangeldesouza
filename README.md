@@ -6,7 +6,7 @@ Sou um estudante dedicado e em constante evolução na área de Dados, construin
 
 Além disso, estou em jornada intensa de aprendizado de **inglês**, com objetivo de alcançar proficiência avançada.
 
-Minha vida e minha ética profissional são guiadas por valores íntegros — sempre buscando excelência, integridade e serviço.
+Minha vida e minha ética profissional são guiadas por valores íntegros sempre buscando excelência, integridade e serviço.
 
 ---
 
